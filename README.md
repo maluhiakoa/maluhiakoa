@@ -2,7 +2,9 @@
 I'm currently learning coding with the help of freeCodeCamp and other useful materials I find online.
 <h2>Skills</h2>
 <h3>Current</h3>
--none-
+<ul>
+  <li>HTML</li>
+</ul>
 <h3>In Progress</h3>
 <ul>
   <li>HTML</li>

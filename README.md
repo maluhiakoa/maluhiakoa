@@ -7,7 +7,6 @@ I'm currently learning coding with the help of freeCodeCamp and other useful mat
 </ul>
 <h3>In Progress</h3>
 <ul>
-  <li>HTML</li>
   <li>CSS</li>
   <li>Git</li>
 </ul>
